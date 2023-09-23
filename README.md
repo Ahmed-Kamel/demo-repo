@@ -10,6 +10,6 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 ## Local Development
 
-Open main.c in your browser
-
+1. Open main.c in your browser
+2. Have Fun
 
